@@ -1,4 +1,4 @@
-# 📟 MotorTest Library
+# 📟 LibArdu_MotorTest
 
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/SeuUsuario/MotorTest)
 ![GitHub](https://img.shields.io/github/license/SeuUsuario/MotorTest)
