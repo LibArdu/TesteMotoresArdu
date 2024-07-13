@@ -24,7 +24,7 @@ A biblioteca **MotorTest** foi desenvolvida pela equipe **LabArdu** para simplif
 
 1. Faça o download ou clone este repositório.
     ```bash
-    git clone https://github.com/SeuUsuario/MotorTest.git
+    https://github.com/LibArdu/TesteMotoresArdu
     ```
 2. Coloque a pasta `MotorTest` na pasta `libraries` do seu ambiente de desenvolvimento do Arduino (`Arduino/libraries`).
 3. Abra o Arduino IDE e vá para `Sketch -> Include Library -> Add .ZIP Library` e selecione a pasta `MotorTest`.
